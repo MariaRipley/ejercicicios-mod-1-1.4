@@ -1,0 +1,21 @@
+.tabla {
+  display: table;
+}
+
+.cabecera {
+  display: table-header-group;
+}
+
+.filas {
+  display: table-row-group;
+}
+
+.fila {
+  display: table-row;
+}
+
+.item {
+  display: table-cell;
+  padding: 10px;
+  border: 1px solid black;
+}
